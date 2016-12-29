@@ -1,0 +1,4 @@
+﻿AzureIntent to tell me a joke
+AzureIntent for a joke
+AzureIntent to give me a Chuck Norris joke
+AzureIntent for a Chuck Norris joke
